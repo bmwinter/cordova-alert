@@ -8,6 +8,7 @@
         <config-file target="config.xml" parent="/*">
             <feature name="AndroidAlert">
                 <param name="android-package" value="com.androidalert.AndroidAlert"/>
+                <param name="onload" value="true" />
             </feature>
         </config-file>
         <source-file src="src/android/AndroidAlert.java" target-dir="src/com/androidalert/" />

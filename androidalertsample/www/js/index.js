@@ -36,7 +36,7 @@ var app = {
             alert("Error calling Hello Plugin");
         }
 
-        androidalert.myAlert("World", function(m) { alert(m) }, function(e) { alert(e) });
+        androidalert.myAlert("World", success, failure);
     },
 
     // Update DOM on a Received Event
