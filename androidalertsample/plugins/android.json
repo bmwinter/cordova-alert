@@ -7,10 +7,10 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-plugin-whitelist": {
+        "cordova-androidalert": {
             "PACKAGE_NAME": "com.androidalertsample.androidalertsample"
         },
-        "cordova-androidalert": {
+        "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.androidalertsample.androidalertsample"
         }
     },

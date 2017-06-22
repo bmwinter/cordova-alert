@@ -10,8 +10,9 @@
     "author": "Apache Cordova Team",
     "license": "Apache-2.0",
     "dependencies": {
-        "AndroidAlert": "file:///Users/brendanwinter/Desktop/cordova-alert/AndroidAlert",
+        "AndroidAlert": "file:../androidAlert",
         "cordova-android": "^6.2.3",
+        "cordova-androidalert": "../AndroidAlert",
         "cordova-plugin-whitelist": "^1.3.2"
     },
     "cordova": {

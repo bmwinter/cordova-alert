@@ -1,4 +1,3 @@
-package com.example.plugin;
 package com.androidalert;
 import org.apache.cordova.*;
 import org.json.JSONArray;

@@ -12,8 +12,8 @@ module.exports = [
 module.exports.metadata = 
 // TOP OF METADATA
 {
-    "cordova-plugin-whitelist": "1.3.2",
-    "cordova-androidalert": "0.0.1"
+    "cordova-androidalert": "0.0.1",
+    "cordova-plugin-whitelist": "1.3.2"
 };
 // BOTTOM OF METADATA
 });

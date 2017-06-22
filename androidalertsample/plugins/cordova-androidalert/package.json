@@ -11,18 +11,6 @@
         "type": "directory"
       },
       "/Users/brendanwinter/Desktop/androidalertsample/node_modules"
-    ],
-    [
-      {
-        "raw": "/Users/brendanwinter/Desktop/AndroidAlert",
-        "scope": null,
-        "escapedName": null,
-        "name": null,
-        "rawSpec": "/Users/brendanwinter/Desktop/AndroidAlert",
-        "spec": "/Users/brendanwinter/Desktop/AndroidAlert",
-        "type": "directory"
-      },
-      "/Users/brendanwinter/Desktop/androidalertsample/node_modules"
     ]
   ],
   "_from": "../AndroidAlert",
