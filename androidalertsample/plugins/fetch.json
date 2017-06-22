@@ -10,7 +10,7 @@
     "cordova-androidalert": {
         "source": {
             "type": "local",
-            "path": "/Users/brendanwinter/Desktop/androidalertsample/node_modules/AndroidAlert"
+            "path": "../AndroidAlert"
         },
         "is_top_level": true,
         "variables": {}
