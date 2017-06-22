@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/Users/brendanwinter/Desktop/AndroidAlert",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/Users/brendanwinter/Desktop/AndroidAlert",
+        "spec": "/Users/brendanwinter/Desktop/AndroidAlert",
+        "type": "directory"
+      },
+      "/Users/brendanwinter/Desktop/androidalertsample/node_modules"
+    ]
+  ],
+  "_from": "../AndroidAlert",
+  "_id": "AndroidAlert@0.0.1",
+  "_inCache": true,
+  "_location": "/AndroidAlert",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/Users/brendanwinter/Desktop/AndroidAlert",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/Users/brendanwinter/Desktop/AndroidAlert",
+    "spec": "/Users/brendanwinter/Desktop/AndroidAlert",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "file:../AndroidAlert",
+  "_shasum": "a6644f1ec920372d7994615933b056a64511aba9",
+  "_shrinkwrap": null,
+  "_spec": "/Users/brendanwinter/Desktop/AndroidAlert",
+  "_where": "/Users/brendanwinter/Desktop/androidalertsample/node_modules",
+  "author": "",
+  "cordova": {
+    "id": "cordova-androidalert",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "ISC",
+  "name": "AndroidAlert",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "0.0.1"
+}

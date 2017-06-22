@@ -1,0 +1,18 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.androidalertsample.androidalertsample"
+        },
+        "cordova-androidalert": {
+            "PACKAGE_NAME": "com.androidalertsample.androidalertsample"
+        }
+    },
+    "dependent_plugins": {}
+}

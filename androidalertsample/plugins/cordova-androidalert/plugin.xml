@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="cordova-androidalert" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>AndroidAlert</name>
+    <js-module name="AndroidAlert" src="www/AndroidAlert.js">
+        <clobbers target="androidalert" />
+    </js-module>
+    <platform name="android">
+        <config-file target="config.xml" parent="/*">
+            <feature name="AndroidAlert">
+                <param name="android-package" value="com.androidalert.AndroidAlert"/>
+            </feature>
+        </config-file>
+        <source-file src="src/android/AndroidAlert.java" target-dir="src/com/androidalert/" />
+    </platform>
+</plugin>
